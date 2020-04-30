@@ -1,1 +1,1 @@
-# Classification-of-Handwritten-Digits
+# Classification_of_Handwritten_Digits
